@@ -92,4 +92,4 @@ bandit10@bandit:~$ cat data.txt|base64 --decode
 The password is IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 bandit10@bandit:~$ exit
 logout
-Connection to bandit.labs.overthewire.org closed.
+Connection to bandit.labs.overthewire.org closed
